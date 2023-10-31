@@ -4,10 +4,7 @@ hello world
 test
 
 
-function
-
-s
-
+functi
 
 test
 exit
