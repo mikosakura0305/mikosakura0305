@@ -4,7 +4,7 @@ hello world
 test
 what a day
 
-functi
+function()
 
 
 
