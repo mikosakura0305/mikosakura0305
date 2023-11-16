@@ -6,8 +6,6 @@ hello world
 function()
 
 
-
-
 sd
 
 test
