@@ -6,7 +6,5 @@ hello world
 function()
 
 
-sd
-
 test
 exit
