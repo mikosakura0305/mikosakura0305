@@ -1,4 +1,5 @@
 import os
+import json
 hello world
 
 
@@ -7,6 +8,4 @@ hello world
 
 function()
 
-
-test
 exit
